@@ -2,11 +2,11 @@
 Fibonacci sequence in python
 
 ```
-python3 FibanacciTk.py
+python3 FibonacciTk.py
 ```
 to run the GUI (linux)
 
 ```
-python3 FibanacciCMD.py
+python3 FibonacciCMD.py
 ```
 to run the CMD (linux)
